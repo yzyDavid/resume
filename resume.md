@@ -2,7 +2,9 @@
 title: 于振云 简历
 ---
 
+
 # 于振云
+
 
 ## Programmer
 
@@ -18,14 +20,16 @@ title: 于振云 简历
 
 #### 编程语言与技能
 
-- Advanced
+- Advanced:
   - C/C++
   - Python
-- Intermediate
+
+- Intermediate:
   - .net / C# / UWP/WPF
   - TypeScript / JavaScript / Node.js
   - High Performance Computing
-- Basic
+
+- Basic:
   - Java / Kotlin-JVM
   - HTML / CSS
   - Computer Vision / Deep Learning
