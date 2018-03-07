@@ -6,9 +6,11 @@ title: 于振云 简历
 
 ## Programmer
 
-> [yuzhenyun.me](https://blog.yuzhenyun.me)
-> [me [at] yuzhenyun.me](mailto:me@yuzhenyun.me)
-> (+86) 181-5851-9680
+[blog.yuzhenyun.me](https://blog.yuzhenyun.me)
+
+(+86) 181-5851-9680
+
+[me [at] yuzhenyun.me](mailto:me@yuzhenyun.me)
 
 ------
 
@@ -16,17 +18,21 @@ title: 于振云 简历
 
 #### 编程语言与技能
 
-- C/C++
-- Python
-- .net / C# / UWP/WPF
-- Java / Kotlin-JVM
-- HTML / CSS
-- TypeScript / JavaScript / Node.js
-- Computer Vision / Deep Learning
-- Computer Graphics / OpenGL
-- Haskell
-- High Performance Computing
-- CUDA
+- Advanced
+  - C/C++
+  - Python
+- Intermediate
+  - .net / C# / UWP/WPF
+  - TypeScript / JavaScript / Node.js
+  - High Performance Computing
+- Basic
+  - Java / Kotlin-JVM
+  - HTML / CSS
+  - Computer Vision / Deep Learning
+  - Computer Graphics / OpenGL
+  - Haskell
+
+  - CUDA
 
 #### 系统维护
 
@@ -40,6 +46,7 @@ title: 于振云 简历
 #### 开发工具
 
 - Git
+- Vim
 - Visual Studio
 - Visual Studio Code
 - Intelij IDEA
@@ -48,7 +55,7 @@ title: 于振云 简历
 
 ### 教育
 
-**浙江大学** **计算机科学与技术** *2015 ~ 2019*
+**浙江大学** **计算机科学与技术** 工学学士 *2015 ~ 2019*
 
 ------
 
@@ -88,7 +95,6 @@ VIPA 视觉智能与模式分析实验室 *科研训练* 参与了 [polyvore](ht
     [github.com/yzyDavid](https://github.com/yzyDavid)
 
 * **博客**
-
     [blog.yuzhenyun.me](blog.yuzhenyun.me)
 
 * **Zhihu**
