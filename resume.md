@@ -31,7 +31,6 @@ title: 于振云 简历
   - Computer Vision / Deep Learning
   - Computer Graphics / OpenGL
   - Haskell
-
   - CUDA
 
 #### 系统维护
