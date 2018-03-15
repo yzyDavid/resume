@@ -98,7 +98,7 @@ VIPA 视觉智能与模式分析实验室 *科研训练* 参与了 [polyvore](ht
     [github.com/yzyDavid](https://github.com/yzyDavid)
 
 * **博客**
-    [blog.yuzhenyun.me](blog.yuzhenyun.me)
+    [blog.yuzhenyun.me](https://blog.yuzhenyun.me)
 
 * **Zhihu**
     [www.zhihu.com/people/exciting-gg/](https://www.zhihu.com/people/exciting-gg/)
